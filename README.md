@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jgallisd
-- 👀 I’m interested in cyber-security, full-stack web development, 
+- 👀 I’m interested in cyber-security, full-stack web development, UI/UX Deisgn, and more
 - 🌱 I’m currently learning cyber-security at Indiana University
 - 📫 How to reach me jgallisd@gmail.com
 
